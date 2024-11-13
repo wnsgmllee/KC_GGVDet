@@ -1,0 +1,9 @@
+Logging to recon_dir/Sora
+Namespace(images_dir='img_dir/Sora_frames', recons_dir='recon_dir/Sora', dire_dir='dire_dir/Sora', clip_denoised=True, num_samples=1000, batch_size=16, use_ddim=True, model_path='models/lsun_bedroom.pt', real_step=0, continue_reverse=False, has_subfolder=True, image_size=256, num_channels=256, num_res_blocks=2, num_heads=4, num_heads_upsample=-1, num_head_channels=64, attention_resolutions='32,16,8', channel_mult='', dropout=0.1, class_cond=False, use_checkpoint=False, use_scale_shift_norm=True, resblock_updown=True, use_fp16=True, use_new_attention_order=False, learn_sigma=True, diffusion_steps=1000, noise_schedule='linear', timestep_respacing='ddim20', use_kl=False, predict_xstart=False, rescale_timesteps=False, rescale_learned_sigmas=False)
+Model and diffusion created.
+Data loader created.
+Computing reconstructions and DIRE ...
+dataset length: 56
+Finished 16 samples.
+Finished 32 samples.
+Finished 48 samples.
