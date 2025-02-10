@@ -1,4 +1,7 @@
-# Analysis of Key Conditions for Generalizable Generated Video Detection
+# Analysis of Key Conditions for Generalizable Generated Video Detection <br> 
+###### 🏆 Received Honorable Mention at [KSC 2024] for our research
+
+<br><br>
 
 ## Project Summary
 With the rapid advancements in generative AI, high-quality synthetic videos that are indistinguishable from real ones are increasingly prevalent online. When large generative models, which train on vast quantities of web data, unintentionally learn from synthetic data, it can distort the true data distribution and lead to *model collapse*. Therefore, it is critical to distinguish between real and synthetic data beforehand. Previous generative video detection models have struggled to generalize well to source models they were not specifically trained on. This project addresses this gap by identifying distinct features that differentiate synthetic videos from real ones, as verified through extensive experiments. Moreover, it presents a direction for leveraging these findings to improve the generalizability of detection models.
