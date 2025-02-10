@@ -1,5 +1,5 @@
 # Analysis of Key Conditions for Generalizable Generated Video Detection <br> 
-###### 🏆 Received Honorable Mention at [KSC 2024] for our research [[paper]](https://github.com/myusername/myrepo/blob/main/paper.pdf)
+###### 🏆 Received Honorable Mention at [KSC 2024] for our research [[paper]](https://github.com/wnsgmllee/KC_GGVDet/blob/master/%EC%83%9D%EC%84%B1%EB%90%9C%20%EB%B9%84%EB%94%94%EC%98%A4%20%ED%83%90%EC%A7%80%EC%9D%98%20%EC%9D%BC%EB%B0%98%ED%99%94%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%95%B5%EC%8B%AC%20%EC%A1%B0%EA%B1%B4%20%EB%B6%84%EC%84%9D%20(KSC%202024%20%EC%B5%9C%EC%A2%85%EB%B3%B8).pdf)
 
 
 <br><br>
