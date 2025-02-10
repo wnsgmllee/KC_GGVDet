@@ -1,5 +1,6 @@
 # Analysis of Key Conditions for Generalizable Generated Video Detection <br> 
-###### 🏆 Received Honorable Mention at [KSC 2024] for our research
+###### 🏆 Received Honorable Mention at [KSC 2024] for our research [[paper]](https://github.com/myusername/myrepo/blob/main/paper.pdf)
+
 
 <br><br>
 
